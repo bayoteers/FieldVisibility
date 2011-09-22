@@ -1,0 +1,30 @@
+    FieldVisibility - Bugzilla extension
+
+FieldVisibility is a very simply extension to Bugzilla at the moment. It just lets You to show / hide a few parts from a bug based on severity. This parts are:
+
+ - Verion
+ - Platform
+ - Target Milestone
+ - URL
+ - WhiteBoard
+ - KeyWords
+ - Frequency
+ - Operator
+
+.
+
+    INSTALLATION
+
+Install extension by extracting files from archive. Switch to 'extension' directory below Bugzilla root directory and extract files from archive.
+
+
+    LICENCE
+
+The code/extension is released under the Mozilla Public License Version 1.1
+http://www.mozilla.org/MPL/
+
+The Initial Developer of the Original Code is "Nokia Corporation"
+Portions created by the Initial Developer are Copyright (C) 2011 the
+Initial Developer. All Rights Reserved.
+
+
